@@ -10,8 +10,8 @@
     <Company>Nenhum</Company>
     <PackageDescription>Extension for Gravatar</PackageDescription>
     <Description>Extension for Gravatar</Description>
-    <RepositoryUrl>https://github.com/ricardosribeiro</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/ricardosribeiro</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ricardosribeiro/GravatarMaker.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ricardosribeiro/GravatarMaker</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>Gravatar;Package;NugetPackage</PackageTags>
     <ReleaseNotes>Nenhum</ReleaseNotes>
